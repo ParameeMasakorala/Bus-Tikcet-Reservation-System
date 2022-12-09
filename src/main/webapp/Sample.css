@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+
+
+.header{
+	
+	background-size:cover;
+	background-image:url(webapp/assests/no-image.png);
+	position:relative;
+	height:10px;
+}
+
+.btn{
+	background-color:#000C66;
+
+}
+
+.search-btn{
+	background-color:#000C66;
+	
+}
+.header-area{
+	background-color:#000C66;
+	
+}
+.logo{
+	
+	
+}
+
